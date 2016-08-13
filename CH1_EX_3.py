@@ -1,4 +1,4 @@
-## Determines the taylor polynomial about x = 0 of f(x) = cos(x)
+## Determines the taylor polynomial about x = 0 of many functions of x
 
 #################################################################
 ################## IMPORTS ####################################
